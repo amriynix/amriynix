@@ -25,6 +25,8 @@ I am an undergraduate student pursuing my Bachelor of Science (Hons) in Financia
 * Excel
 * Rstudio
 * Microsoft PowerBi
+* Tableau
+* SQL
 
 <hr>
 
